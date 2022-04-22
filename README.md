@@ -1,1 +1,1 @@
-# Weights-and-Biases-AI-Notebooks-OVHcloud
+# Weights & Biases integration in AI Notebooks (OVHcloud)
